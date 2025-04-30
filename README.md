@@ -1,5 +1,69 @@
 # AudienceGroupCrew
 
+# Job Role Example
+## Job Title: Campaign Manager  
+**Location:** [Insert Location or "Remote"]  
+**Employment Type:** Full-Time  
+**Reports To:** Head of Digital / Account Director  
+
+---
+
+## Role Summary  
+We’re seeking an experienced, data-driven **Campaign Manager** to lead the planning, execution, optimisation, and reporting of paid media campaigns across digital channels. You’ll work closely with clients, creatives, and performance teams to ensure every campaign drives measurable results and aligns with broader marketing goals.
+
+---
+
+## Key Responsibilities
+
+### 🧠 Campaign Strategy & Execution
+- Develop and execute multi-channel digital advertising campaigns (e.g., Google Ads, Facebook/Meta, LinkedIn, programmatic).
+- Translate client objectives into performance-driven media plans.
+- Collaborate with creative teams to guide asset development and ensure alignment with campaign goals.
+
+### 📈 Monitoring & Optimisation
+- Monitor pacing, performance, and delivery daily to ensure budget efficiency and KPI alignment.
+- Implement continuous optimisations based on data insights (e.g., A/B testing, audience refinement, bid strategy updates).
+- Proactively identify issues and opportunities within campaigns and suggest corrective action.
+
+### 🤝 Client & Stakeholder Communication
+- Serve as the main point of contact for campaign-related updates, performance insights, and recommendations.
+- Present regular reports, insights, and strategy adjustments to internal and external stakeholders.
+- Work closely with account managers and strategists to ensure client satisfaction and campaign cohesion.
+
+### 📊 Reporting & Analysis
+- Build and maintain performance dashboards and reports using tools like Google Data Studio, Excel, or Looker.
+- Analyse campaign performance across channels, producing actionable insights and strategic recommendations.
+- Contribute to post-campaign reviews and long-term strategy development.
+
+---
+
+## Required Skills & Experience
+- 3+ years of experience in paid digital campaign management, preferably within an agency setting.
+- Strong hands-on knowledge of Google Ads, Meta Business Manager, LinkedIn Campaign Manager, and other digital platforms.
+- Proficiency in campaign performance tracking and analytics tools (Google Analytics, Tag Manager, etc.).
+- Comfortable managing large budgets and delivering against ROAS, CPL, CPA, or awareness KPIs.
+- Exceptional attention to detail and time management skills.
+- Confident communicator with the ability to distil complex data into client-friendly narratives.
+
+---
+
+## Preferred Qualifications
+- Certification in Google Ads, Meta Blueprint, or similar.
+- Experience with marketing automation platforms and CRM integrations.
+- Understanding of conversion tracking, pixel setup, and attribution modelling.
+
+---
+
+## What We Offer
+- Opportunity to work with high-profile clients across varied industries.
+- Supportive, collaborative team environment.
+- Ongoing professional development and certification support.
+- Flexible work options and a focus on work-life balance.
+
+
+
+
+
 # Campaign Manager – CrewAI Agent Breakdown
 
 ## 🎯 role: "Campaign Strategist Agent"
